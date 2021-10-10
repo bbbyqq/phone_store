@@ -1,29 +1,7 @@
-# default
+##启动项目方法
 
-## Project setup
-```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##此项目为前后端分离项目，需要启动phone_store_spring_boot项目才可以运行
